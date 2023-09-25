@@ -1,4 +1,4 @@
-# First ASP.NET MVC Practice(https://github.com/cappuccinocodes/c-sharp-academy-mvc-01-todo-vsc/tree/master)
+# ASP.NET MVC Practice(https://github.com/cappuccinocodes/c-sharp-academy-mvc-01-todo-vsc/tree/master)
 
 ```sh
 # create ASP.NET project
